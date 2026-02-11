@@ -8,25 +8,28 @@ I am a passionate developer focused on turning complex data into actionable insi
 
 ### 🛠️ Tech Stack
 
-- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=mysql&logoColor=white)
-- **ML/Data:** ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-black.svg?style=flat)
-- **Frameworks:** ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white)
-- **Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+- **ML/Data:** ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-black.svg?style=for-the-badge)
+- **Frameworks:** ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+- **Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 🌟 Featured Project
 **[Machine Failure Predictor](https://github.com/athiyataj9-arch/machine_failure_predictor)**
-*A full-stack ML application predicting industrial equipment failures using sensor telemetry and XGBoost.*
+* Developed an end-to-end ML pipeline to predict industrial equipment failures.
+* Built an interactive dashboard using **Streamlit** for real-time predictions.
 
 ---
 
 ### 📈 My GitHub Stats
-![Athiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=athiyataj9-arch&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athiyataj9-arch&layout=compact&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=athiyataj9-arch&show_icons=true&theme=radical" alt="Athiya's GitHub stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athiyataj9-arch&layout=compact&theme=radical" alt="Top Langs" height="150" />
+</p>
 
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/athiya-taj-a17416394]
-- **Email:** [athiyataj9@gmail.com]
+- **LinkedIn:** [Athiya Taj](https://linkedin.com/in/athiya-taj-a17416394)
+- **Email:** [athiyataj9@gmail.com](mailto:athiyataj9@gmail.com)
