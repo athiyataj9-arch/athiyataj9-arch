@@ -28,5 +28,5 @@ I am a passionate developer focused on turning complex data into actionable insi
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Email:** [Your Email Address]
+- **LinkedIn:** [linkedin.com/in/athiya-taj-a17416394
+- **Email:** [athiyataj9@gmail.com]
