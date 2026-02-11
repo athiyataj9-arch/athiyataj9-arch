@@ -22,15 +22,6 @@ I am a passionate developer focused on turning complex data into actionable insi
 
 ---
 
-### 📈 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=athiyataj9-arch&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athiyataj9-arch&layout=compact&theme=radical" alt="Top Languages" height="170" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 - **LinkedIn:** [Athiya Taj](https://linkedin.com/in/athiya-taj-a17416394)
 - **Email:** [athiyataj9@gmail.com](mailto:athiyataj9@gmail.com)
